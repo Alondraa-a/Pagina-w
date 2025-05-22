@@ -1,0 +1,33 @@
+.product-card {
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+}
+.product-card:hover {
+    transform: translateY(-20px);
+}
+.navbar-custom {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.card-body-categoria {
+    background-color: #1c81d3;
+    transition: all 0.3s ease;
+    color: white;   
+    /*border-radius: 8px 8px 8px 8px;*/
+    
+}
+
+.card-body-categoria:hover {
+    background-color: #010508;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+
+
+.btn-primary:hover{
+    background-color: #010508;
+}
